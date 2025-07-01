@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Connor Marrs"
 description              : &description "I'm a 3rd year Ph.D. student in UC Santa Barbara's math department working under Katy Craig. My research focuses on applications of Wasserstein gradient flows to PDE's and data science, and on the side I enjoy playing around with tools from geometric analysis."
 url                      : https://connormarrs.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/academic-math-site" # the subpath of your site, e.g. "/blog"
 repository               : "connormarrs/academic-math-site"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
