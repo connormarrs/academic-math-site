@@ -4,7 +4,6 @@ permalink: /seminar/
 layout: single
 author_profile: true
 ---
-
 Welcome to the **Student Analysis Seminar** at UC Santa Barbara!
 
 In Summer 2025, we’ll explore the phenomenon of measure concentration and the applications of it to functional inequalities, PDE's, geometry, probability, and statistics. The main references we'll refer to are
@@ -32,6 +31,15 @@ will be linked and posted below.
 | 2025-08-12 | Concentration & Geometry                    | Alex Bisnath       | L Ch. 3              |TBD            |
 | 2025-08-19 | Transportation Cost Inequalities            | Connor Marrs       | Ledoux Ch. 6         |TBD            |
 | 2025-08-26 | Gaussian Processes                          | Jack Pfaffinger    | Ledoux Ch. 7         |TBD            |
+
+## Abstracts
+### Week 1: Introduction to Concentration Phenomena (Connor)
+
+**Abstract:** At first glance, if I have a sum of random variables, it may seem that the variance of this sum will be quite large. In the worst case scenario, this is true, but provided we sum up enough terms and the random variables are sufficiently uncorrelated, the sum will have almost no variance (i.e. it is close to constant). This is one instance of a general phenomenon in which random quantities that depend "nicely" on sufficiently uncorrelated inputs turn out to be nearly constant. This leads to so-called concentration inequalities that can be used to study the isoperimetric problem, functional inequalities (e.g. Sobolev & Poincare), and high dimensional geometry. As a result, we can develop new techniques to study geometry, PDE's, stochastic processes, and statistics. I'll introduce some motivating examples, prove a simple concentration inequality, and state some key results.
+### Week 2: More Examples of Concentration Inequalities (Claire)
+
+**Abstract:** TBD
+
 
 ## References
 
