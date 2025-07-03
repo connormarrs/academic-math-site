@@ -21,10 +21,17 @@ will be linked and posted below.
 
 ## Schedule
 
-| Date       | Topic                                     | Presenter          | References       | Lecture Notes |
-|------------|-------------------------------------------|--------------------|------------------|---------------|
-| 2025-07-01 | Introduction to Concentration of Measure  | Connor Marrs       | Ledoux Ch. 1, 2  |TBD            |
-| 2025-07-08 | Isoperimetry & Geometry                   | Jack Pfaffinger    | Ledoux Ch. 2     |TBD            |
+| Date       | Topic                                       | Presenter          | References           | Lecture Notes |
+|------------|-------------------------------------------  |--------------------|------------------    |---------------|
+| 2025-07-01 | Introduction to Concentration of Measure    | Connor Marrs       | L Ch. 1, 2           |TBD            |
+| 2025-07-08 | More Examples of Concentration Inequalities | Claire Murphy      | L Ch. 1, N Pg. 4-19  |TBD            |
+| 2025-07-15 | Isoperimetry & Functional Inequalities      | Jack Pfaffinger    | L Ch. 2              |TBD            |
+| 2025-07-22 | Skip for OT Conference                      | N/A                |           NA         |NA             |
+| 2025-07-29 | Concentration in Product Spaces             | Christian Hong     | L Ch. 4, N Pg. 22-30 |TBD            |
+| 2025-08-05 | Entropy & Log-Sobolev                       | Claire Murphy      | L Ch. 5              |TBD            |
+| 2025-08-12 | Concentration & Geometry                    | Alex Bisnath       | L Ch. 3              |TBD            |
+| 2025-08-19 | Transportation Cost Inequalities            | Connor Marrs       | Ledoux Ch. 6         |TBD            |
+| 2025-08-26 | Gaussian Processes                          | Jack Pfaffinger    | Ledoux Ch. 7         |TBD            |
 
 ## References
 
